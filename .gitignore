@@ -1,7 +1,7 @@
 bin/
 tmp/
-debug/
-release/
+[Dd]ebug/
+[Rr]elease/
 Deleted/
 Shipping/
 __MACOSX/
@@ -16,3 +16,4 @@ BuildLog.htm
 *.opensdf
 *.txt
 buildfre_wxp_x86.*
+.vs/
